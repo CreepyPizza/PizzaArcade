@@ -11,8 +11,8 @@ To tune in, browse some merch, and find more info, be sure to visit us at https:
 
 ## Instructions
 1. Download this repository (Code -> Download ZIP, at the top of this page) and unzip.
-2. For Windows, navigate to the Windows folder, then to the game folder and run the .exe file (for example, HelpieKelpie.exe)
-3. For Mac, navigate to the macOS folder and run the .app file for the game (for example, HelpieKelpie.app)
+2. For Windows, navigate to the Windows folder, then to the game folder and run the .exe file (for example, HelpieKelpie.exe). You may encounter a warning about an unknown application.
+3. For Mac, navigate to the macOS folder and run the .app file for the game (for example, HelpieKelpie.app). You may need to allow the game access by going to System Preferences -> Security & Privacy and select Open Anyway.
 
 Pizza Arcade games are password protected -- passwords are sent to our Patreon supporters. When you run the game for the first time, you will be prompted to enter the password. 
 
