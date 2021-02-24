@@ -22,7 +22,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		AsTp/KSTXtBeMEpuGPdM676AkjA=
+		qOmpTEKss26xqbIxRiLo/CH6go8=
 		</data>
 		<key>Resources/PressStart2P-vaV7.ttf</key>
 		<data>
@@ -127,7 +127,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			U1lgdS8WUju0WIWjtMVM2KWBSf0=
+			NQMPJ/da9Ef8yMVFKIazK5aLgk0=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.sfml-dev.FLAC" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
@@ -136,7 +136,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			FOvRuRoyXjcnQJ5cxHVjrEs6e2c=
+			Km+AoLyFoe+Pgtjm8peA9nrXkNk=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.sfml-dev.OpenAL" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
@@ -154,7 +154,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			0EIXX84HYvpzU9KAQBae3CMN2og=
+			QS+SuxY3WLVpMiJmCrYlwlKkbcs=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.sfml-dev.freetype" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
@@ -163,7 +163,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			7H0xseHssl3U2lNQFAXQ3RuxVyk=
+			VhS7IkUSBwM6KKHL6g4RYBBKw/o=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.sfml-dev.ogg" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
@@ -217,7 +217,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			irNbroiHN5Q62t0gDtwUyBndAjw=
+			NTVeFrs9T0X+LvL2KGfxr1NSr3I=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.sfml-dev.vorbis" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
@@ -226,7 +226,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RpCjIVPTwFQZdDvhed2XyAckVOg=
+			azH1ypOL745btO/wG2Ssyq6H0C8=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.sfml-dev.vorbisenc" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
@@ -235,7 +235,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			dQ87/VvQ3pfgVsRffBW8ldklmwQ=
+			Vb4B8j5y3lKiZFlz2alswKKuSEA=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.sfml-dev.vorbisfile" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
@@ -288,11 +288,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AsTp/KSTXtBeMEpuGPdM676AkjA=
+			qOmpTEKss26xqbIxRiLo/CH6go8=
 			</data>
 			<key>hash2</key>
 			<data>
-			DaN6CoKgmr6r3C3iO3PyE+4HbQWS5JVcLMUZ9RlrxcY=
+			0Bl5zWGE9BDjSjDarAC3HdmZrgAXJelqW6aU+fPlz1k=
 			</data>
 		</dict>
 		<key>Resources/PressStart2P-vaV7.ttf</key>
