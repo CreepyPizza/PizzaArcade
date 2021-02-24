@@ -40,8 +40,6 @@
 	<string>1010</string>
 	<key>DTXcodeBuild</key>
 	<string>10B61</string>
-	<key>LSApplicationCategoryType</key>
-	<string>public.app-category.games</string>
 	<key>NSHighResolutionCapable</key>
 	<true/>
 </dict>
