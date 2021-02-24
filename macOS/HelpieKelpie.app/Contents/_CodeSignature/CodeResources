@@ -22,7 +22,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		+1uUHVP9ZgJ45wY6JHO3eqqLAlE=
+		AsTp/KSTXtBeMEpuGPdM676AkjA=
 		</data>
 		<key>Resources/PressStart2P-vaV7.ttf</key>
 		<data>
@@ -123,6 +123,123 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/FLAC.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			U1lgdS8WUju0WIWjtMVM2KWBSf0=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.sfml-dev.FLAC" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
+		</dict>
+		<key>Frameworks/OpenAL.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			FOvRuRoyXjcnQJ5cxHVjrEs6e2c=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.sfml-dev.OpenAL" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
+		</dict>
+		<key>Frameworks/SFML.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Nb3uQs8K5CcVJHrVP7ehSjs8Oks=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.sfml-dev.SFML" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
+		</dict>
+		<key>Frameworks/freetype.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			0EIXX84HYvpzU9KAQBae3CMN2og=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.sfml-dev.freetype" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
+		</dict>
+		<key>Frameworks/ogg.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			7H0xseHssl3U2lNQFAXQ3RuxVyk=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.sfml-dev.ogg" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
+		</dict>
+		<key>Frameworks/sfml-audio.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			gEFxGta41BI+5n1qxxfQM5ZZCcw=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.sfml-dev.sfml-audio" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
+		</dict>
+		<key>Frameworks/sfml-graphics.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Q4NCtOIIULDHuE1lgUJdWjrUxGo=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.sfml-dev.sfml-graphics" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
+		</dict>
+		<key>Frameworks/sfml-network.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Rjz3u6VGUB5PvMvz6ShlQRaCrVE=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.sfml-dev.sfml-network" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
+		</dict>
+		<key>Frameworks/sfml-system.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			J7o+5dZCKkZ9DhYPLFKQthYMpQw=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.sfml-dev.sfml-system" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
+		</dict>
+		<key>Frameworks/sfml-window.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			/9woe1y2PxKKIu46kFYkaeYDWrk=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.sfml-dev.sfml-window" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
+		</dict>
+		<key>Frameworks/vorbis.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			irNbroiHN5Q62t0gDtwUyBndAjw=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.sfml-dev.vorbis" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
+		</dict>
+		<key>Frameworks/vorbisenc.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			RpCjIVPTwFQZdDvhed2XyAckVOg=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.sfml-dev.vorbisenc" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
+		</dict>
+		<key>Frameworks/vorbisfile.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			dQ87/VvQ3pfgVsRffBW8ldklmwQ=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.sfml-dev.vorbisfile" and certificate root = H"a7ca3458c9926f37370cee2f876345eee3f8185e"</string>
+		</dict>
 		<key>Resources/110393__soundscalpel-com__water-splash.wav</key>
 		<dict>
 			<key>hash</key>
@@ -171,11 +288,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+1uUHVP9ZgJ45wY6JHO3eqqLAlE=
+			AsTp/KSTXtBeMEpuGPdM676AkjA=
 			</data>
 			<key>hash2</key>
 			<data>
-			FRpHb+Fse/UQFulqpQlPcsTynujkXp3cCWJ6ECClPuw=
+			DaN6CoKgmr6r3C3iO3PyE+4HbQWS5JVcLMUZ9RlrxcY=
 			</data>
 		</dict>
 		<key>Resources/PressStart2P-vaV7.ttf</key>
