@@ -1,19 +1,17 @@
-# PizzaArcade
+# Creepy Pizza Arcade
 
-Welcome to the Pizza Arcade! A spot for supporters of the Creepy Pizza podcast to come in and play some video games. If you want some tokens so you can join the fun, please support us on Patreon! - Britt and Peter
-
-To tune in, browse some merch, and find more info, be sure to visit us at https://www.creepypizza.com/
-
-
+Welcome to the Creepy Pizza Arcade! A spot to play some games based on the Creepy Pizza podcast. To tune in, browse some merch, and find more info, be sure to visit us at https://www.creepypizza.com/
 
 ## Games Available
-- **Helpie Kelpie** - play as the sticky horse of doom! drown as many people as you can -- related to our first episode, "You're Too Sticky"
+- **Helpie Kelpie** - play as the sticky horse of doom! drown as many people as you can
+- **Pizzar** - get your fortune read by the legendary Pizzar
+- **Slice Invaders** - cut down alien invaders with 
 
 ## Instructions
 The Pizza Arcade is available for Windows and macOS
 1. Download this repository (Code -> Download ZIP, at the top of this page) and unzip.
 2. For Windows, navigate to the Windows folder, then to the game folder and run the .exe file (for example, HelpieKelpie.exe). You may encounter a warning about an unknown application.
-3. For macOS, navigate to the macOS folder and run the .app file for the game (for example, HelpieKelpie.app). You may need to allow the game access by going to System Preferences -> Security & Privacy and select Open Anyway.
+3. For macOS, navigate to the macOS folder and run the CreepyPizzaArcade.app file for the game. You may need to allow the game access by going to System Preferences -> Security & Privacy and select Open Anyway.
 
 Pizza Arcade games are password protected -- passwords are sent to our Patreon supporters. When you run the game for the first time, you will be prompted to enter the password. 
 
